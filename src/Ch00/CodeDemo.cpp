@@ -2,6 +2,8 @@
 // Exercise 00_03
 // Using the Exercise Files in GitHub Codespaces, by Eduardo Corpeño 
 
+// Modified by JB
+
 #include <iostream>
 
 int main(){
